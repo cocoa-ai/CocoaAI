@@ -19,3 +19,8 @@ demo application for flower classification.
 demo application for dominant objects detection.
 - [StylesVisionDemo](https://github.com/cocoa-ai/StylesVisionDemo) - iOS11 demo
 application for image style classification.
+
+## NLP
+
+- [NamesCoreMLDemo](https://github.com/cocoa-ai/NamesCoreMLDemo) - iOS11 demo 
+application for predicting gender from first names.
