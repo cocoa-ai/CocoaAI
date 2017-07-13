@@ -24,3 +24,5 @@ application for image style classification.
 
 - [NamesCoreMLDemo](https://github.com/cocoa-ai/NamesCoreMLDemo) - iOS11 demo 
 application for predicting gender from first names.
+- [SentimentCoreMLDemo](https://github.com/cocoa-ai/SentimentCoreMLDemo) - iOS11 
+demo application for sentiment polarity analysis.
