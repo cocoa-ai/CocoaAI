@@ -11,20 +11,20 @@ build working prototypes using machine learning, computer vision, natural
 language processing and other subsets of artificial intelligence in Cocoa apps.
 
 ## Vision
-- [FacesVisionDemo](https://github.com/cocoa-ai/FacesVisionDemo) - iOS11 demo
-application for age and gender classification of facial images.
-- [FlowersVisionDemo](https://github.com/cocoa-ai/FlowersVisionDemo) - iOS11
-demo application for flower classification.
-- [InceptionVisionDemo](https://github.com/cocoa-ai/InceptionVisionDemo) - iOS11
-demo application for dominant objects detection.
-- [SentimentVisionDemo](https://github.com/cocoa-ai/SentimentVisionDemo) - iOS11 
-demo application for visual sentiment prediction.
-- [StylesVisionDemo](https://github.com/cocoa-ai/StylesVisionDemo) - iOS11 demo
-application for image style classification.
+- [FacesVisionDemo](https://github.com/cocoa-ai/FacesVisionDemo) - age and 
+gender classification of facial images.
+- [FlowersVisionDemo](https://github.com/cocoa-ai/FlowersVisionDemo) - flower 
+classification.
+- [InceptionVisionDemo](https://github.com/cocoa-ai/InceptionVisionDemo) - dominant 
+objects detection.
+- [SentimentVisionDemo](https://github.com/cocoa-ai/SentimentVisionDemo) - visual 
+sentiment prediction.
+- [StylesVisionDemo](https://github.com/cocoa-ai/StylesVisionDemo) - image style 
+classification.
 
 ## NLP
 
-- [NamesCoreMLDemo](https://github.com/cocoa-ai/NamesCoreMLDemo) - iOS11 demo 
-application for predicting gender from first names.
-- [SentimentCoreMLDemo](https://github.com/cocoa-ai/SentimentCoreMLDemo) - iOS11 
-demo application for sentiment polarity analysis.
+- [NamesCoreMLDemo](https://github.com/cocoa-ai/NamesCoreMLDemo) - predicting 
+gender from first names.
+- [SentimentCoreMLDemo](https://github.com/cocoa-ai/SentimentCoreMLDemo) - sentiment 
+polarity analysis.
