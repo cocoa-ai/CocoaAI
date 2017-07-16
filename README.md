@@ -17,6 +17,8 @@ application for age and gender classification of facial images.
 demo application for flower classification.
 - [InceptionVisionDemo](https://github.com/cocoa-ai/InceptionVisionDemo) - iOS11
 demo application for dominant objects detection.
+- [SentimentVisionDemo](https://github.com/cocoa-ai/SentimentVisionDemo) - iOS11 
+demo application for visual sentiment prediction.
 - [StylesVisionDemo](https://github.com/cocoa-ai/StylesVisionDemo) - iOS11 demo
 application for image style classification.
 
